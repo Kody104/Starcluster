@@ -1,0 +1,89 @@
+weapons.png
+size: 52, 1154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_bomb
+  rotate: false
+  xy: 0, 0
+  size: 52, 107
+  orig: 52, 107
+  offset: 0, 0
+  index: -1
+blue_laser
+  rotate: false
+  xy: 0, 107
+  size: 36, 200
+  orig: 36, 200
+  offset: 0, 0
+  index: -1
+blue_phasers
+  rotate: false
+  xy: 0, 307
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+blue_torpedo
+  rotate: false
+  xy: 0, 323
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+green_laser
+  rotate: false
+  xy: 0, 415
+  size: 37, 200
+  orig: 37, 200
+  offset: 0, 0
+  index: -1
+green_phasers
+  rotate: false
+  xy: 0, 615
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+green_torpedo
+  rotate: false
+  xy: 0, 631
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+red_bomb
+  rotate: false
+  xy: 0, 723
+  size: 52, 107
+  orig: 52, 107
+  offset: 0, 0
+  index: -1
+red_laser
+  rotate: false
+  xy: 0, 830
+  size: 36, 200
+  orig: 36, 200
+  offset: 0, 0
+  index: -1
+red_phasers
+  rotate: false
+  xy: 0, 1030
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+red_torpedo
+  rotate: false
+  xy: 0, 1046
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+yellow_phasers
+  rotate: false
+  xy: 0, 1138
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1

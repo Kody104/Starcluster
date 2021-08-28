@@ -1,0 +1,117 @@
+sm-planets.png
+size: 2016, 1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+planet-1-s
+  rotate: false
+  xy: 0, 0
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-2-s
+  rotate: false
+  xy: 336, 0
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-3-s
+  rotate: false
+  xy: 672, 0
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-4-s
+  rotate: false
+  xy: 1008, 0
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-5-s
+  rotate: false
+  xy: 1344, 0
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-6-s
+  rotate: false
+  xy: 1680, 0
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-7-s
+  rotate: false
+  xy: 0, 336
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-8-s
+  rotate: false
+  xy: 336, 336
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-9-s
+  rotate: false
+  xy: 672, 336
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-10-s
+  rotate: false
+  xy: 1008, 336
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-11-s
+  rotate: false
+  xy: 1344, 336
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-12-s
+  rotate: false
+  xy: 1680, 336
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-13-s
+  rotate: false
+  xy: 0, 672
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-14-s
+  rotate: false
+  xy: 336, 672
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-15-s
+  rotate: false
+  xy: 672, 672
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+planet-16-s
+  rotate: false
+  xy: 1008, 672
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1

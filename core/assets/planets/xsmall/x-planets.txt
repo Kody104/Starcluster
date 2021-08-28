@@ -1,0 +1,117 @@
+x-planets.png
+size: 1008, 504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+planet-1-x
+  rotate: false
+  xy: 0, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-2-x
+  rotate: false
+  xy: 168, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-3-x
+  rotate: false
+  xy: 336, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-4-x
+  rotate: false
+  xy: 504, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-5-x
+  rotate: false
+  xy: 672, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-6-x
+  rotate: false
+  xy: 840, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-7-x
+  rotate: false
+  xy: 0, 168
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-8-x
+  rotate: false
+  xy: 168, 168
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-9-x
+  rotate: false
+  xy: 336, 168
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-10-x
+  rotate: false
+  xy: 504, 168
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-11-x
+  rotate: false
+  xy: 672, 168
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-12-x
+  rotate: false
+  xy: 840, 168
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-13-x
+  rotate: false
+  xy: 0, 336
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-14-x
+  rotate: false
+  xy: 168, 336
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-15-x
+  rotate: false
+  xy: 336, 336
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+planet-16-x
+  rotate: false
+  xy: 504, 336
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1

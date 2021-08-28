@@ -1,0 +1,173 @@
+buttons.png
+size: 1000, 250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abort-button
+  rotate: false
+  xy: 0, 0
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+abort-disabled
+  rotate: false
+  xy: 200, 0
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+abort-highlight
+  rotate: false
+  xy: 400, 0
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+buy-button
+  rotate: false
+  xy: 600, 0
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+buy-disable
+  rotate: false
+  xy: 800, 0
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+buy-highlight
+  rotate: false
+  xy: 0, 50
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+communicate-button
+  rotate: false
+  xy: 200, 50
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+communicate-disabled
+  rotate: false
+  xy: 400, 50
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+communicate-highlight
+  rotate: false
+  xy: 600, 50
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+confirm-button
+  rotate: false
+  xy: 800, 50
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+confirm-disabled
+  rotate: false
+  xy: 0, 100
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+confirm-highlight
+  rotate: false
+  xy: 200, 100
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+refuel-button
+  rotate: false
+  xy: 400, 100
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+refuel-disabled
+  rotate: false
+  xy: 600, 100
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+refuel-highlight
+  rotate: false
+  xy: 800, 100
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+sell-button
+  rotate: false
+  xy: 0, 150
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+sell-disable
+  rotate: false
+  xy: 200, 150
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+sell-highlight
+  rotate: false
+  xy: 400, 150
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+trade-button
+  rotate: false
+  xy: 600, 150
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+trade-disabled
+  rotate: false
+  xy: 800, 150
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+trade-highlight
+  rotate: false
+  xy: 0, 200
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+travel-button
+  rotate: false
+  xy: 200, 200
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+travel-disabled
+  rotate: false
+  xy: 400, 200
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+travel-highlight
+  rotate: false
+  xy: 600, 200
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1

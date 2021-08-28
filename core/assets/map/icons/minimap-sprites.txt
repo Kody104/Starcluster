@@ -1,0 +1,82 @@
+minimap-sprites.png
+size: 8, 60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alliedplanet-icon
+  rotate: false
+  xy: 0, 12
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+alliedship-icon
+  rotate: false
+  xy: 0, 0
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+asteroid-icon
+  rotate: false
+  xy: 4, 0
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+enemyplanet-icon
+  rotate: false
+  xy: 0, 20
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+enemyship-icon
+  rotate: false
+  xy: 0, 4
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+friendlyplanet-icon
+  rotate: false
+  xy: 0, 28
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+friendlyship-icon
+  rotate: false
+  xy: 4, 4
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+neutralplanet-icon
+  rotate: false
+  xy: 0, 36
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+neutralship-icon
+  rotate: false
+  xy: 0, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+playership-icon
+  rotate: false
+  xy: 0, 44
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+uncolonizedplanet-icon
+  rotate: false
+  xy: 0, 52
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

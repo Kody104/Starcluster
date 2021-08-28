@@ -1,0 +1,33 @@
+sprites.png
+size: 245, 133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orangeship
+  rotate: false
+  xy: 0, 0
+  size: 59, 133
+  orig: 59, 133
+  offset: 0, 0
+  index: -1
+orangeship2
+  rotate: false
+  xy: 59, 0
+  size: 57, 133
+  orig: 57, 133
+  offset: 0, 0
+  index: -1
+orangeship3
+  rotate: false
+  xy: 116, 0
+  size: 76, 133
+  orig: 76, 133
+  offset: 0, 0
+  index: -1
+smallorange
+  rotate: false
+  xy: 192, 0
+  size: 53, 87
+  orig: 53, 87
+  offset: 0, 0
+  index: -1
